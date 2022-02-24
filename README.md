@@ -1,3 +1,6 @@
+> **⚠ WARNING: No maintenance intended**  
+> This package is not actively maintained.
+
 # Select Auto-Complete
 
 ##### An auto-completing Laravel Nova search field.
